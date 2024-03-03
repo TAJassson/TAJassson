@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NeverLess DevOPS team**
 
-- 🌱 I’m currently learning **Ts, Js**
+- 🌱 I’m currently learning **TypeScript and Javascript for web development**
 
 - 💬 Ask me about **C# .net desktop de**
 
