@@ -1,10 +1,6 @@
 <h1 align="center">👋 This is Despaaaaa</h1>
 <h3 align="center">Stupid junior developer from Hong Kong</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajassson&label=Profile%20views&color=0e75b6&style=flat" alt="tajassson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajassson" alt="tajassson" /></a> </p>
-
 - 🔭 I’m currently working on **NeverLess DevOPS team**
 
 - 🌱 I’m currently learning **Ts, Js**
