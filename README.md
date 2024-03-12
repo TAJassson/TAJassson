@@ -3,7 +3,7 @@
 
 - 👷 I’m currently working on **NeverLess DevOPS team :))**
 
--  👨🏻‍💼 I'm the Owner of **NeverLess Team**
+-  👨🏻‍💼 I'm the Owner of **NeverLess Team, know more about > https://neverless.xyz**
 
 - 🌱 I’m currently learning **TypeScript and Javascript for web development**
   
