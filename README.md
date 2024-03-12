@@ -1,15 +1,19 @@
 <h1 align="center">👋 This is Despaaaaa</h1>
-<h3 align="center">Stupid junior developer from Hong Kong</h3>
+<h3 align="center">Super junior developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on **NeverLess DevOPS team**
+- 👷 I’m currently working on **NeverLess DevOPS team :))**
+
+-  👨🏻‍💼 I'm the Owner of **NeverLess Team**
 
 - 🌱 I’m currently learning **TypeScript and Javascript for web development**
+  
+- 💬 You can ask me about **C# .net desktop application development**
 
-- 💬 Ask me about **C# .net desktop de**
+- 📫 Email: **jason.t@neverless.xyz**
 
-- 📫 How to reach me **jason.t@neverless.xyz**
-
-- ⚡ Fun fact **I'm just 21 but owned 5 years IT support experiences lol.**
+- 📚 I'm studing at the **University of the West of England, Bristol**
+  
+- ⚡ Fun fact **I'm still single 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
