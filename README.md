@@ -1,7 +1,6 @@
 <h1 align="center">👋 This is Despaaaaa</h1>
 <h3 align="center">Super junior developer from Hong Kong</h3>
 
-- 👷 I’m currently working on **NeverLess DevOPS team :))**
 
 -  👨🏻‍💼 I'm the Owner of **NeverLess Team, know more about > https://neverless.xyz**
 
@@ -12,8 +11,6 @@
 - 📫 Email: **jason.t@neverless.xyz**
 
 - 📚 I'm studing at the **University of the West of England, Bristol**
-  
-- ⚡ Fun fact **I'm still single 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
