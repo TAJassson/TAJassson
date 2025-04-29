@@ -24,11 +24,6 @@
   - Windows platform encryption and decryption
   - Custom RESETful API design
   </Projects>
-  <Projects>
-  - OpenERP (Free and Open Source ERP for SME)
-  - Windows platform encryption and decryption
-  - Custom RESETful API design
-  </Projects>
 </Description>
 ```
 
