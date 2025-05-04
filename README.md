@@ -1,13 +1,13 @@
 ``` XML
 <?xml version="1.0" encoding="UTF-8"?>
 
-<About me>
+<Aboutme>
   <Username>Jason Tse</Username>
   <Discord>tajassson</Discord>
   <Linkedin>https://linkedin.com/in/jasontse1007</Linkedin>
   <Email>jason.t@neverless.xyz</Email>
   <School>UWE Bristol - BSc(Hons) Information Technology</School>
-</About me>
+</Aboutme>
 
 <Description>
   <Info> This is Jason (or Despa); Born in 2003 Hongkonger; Owner of @NeverLess team (https://neverless.xyz)</Info>
