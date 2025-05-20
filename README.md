@@ -4,7 +4,11 @@
 <Aboutme>
   <Username>Jason Tse</Username>
   <Discord>tajassson</Discord>
+  <Country>Hong Kong</Country>
+  <BornIn>2003</BornIn>
   <Linkedin>https://linkedin.com/in/jasontse1007</Linkedin>
+  <WebSite>https://aboutme.despa.xyz</WebSite>
+  <Discord>This is Despa</Discord>
   <Email>jason.t@neverless.xyz</Email>
   <School>UWE Bristol - BSc(Hons) Information Technology</School>
 </Aboutme>
@@ -24,11 +28,20 @@
   - Windows platform encryption and decryption
   - Custom RESETful API design
   </Projects>
+  <Skill>
+  QA Test
+  IT Managment
+  Project Management
+  Team Leading and Team player
+  Programming
+  SQL Design
+  Web resource design
+  Taking photo
+  Keep be single
+  </Skill>
 </Description>
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajassson&show_icons=true&locale=en&layout=compact" alt="tajassson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajassson&show_icons=true&locale=en" alt="tajassson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tajassson&" alt="tajassson" /></p>
