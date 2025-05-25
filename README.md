@@ -30,7 +30,7 @@
   </Projects>
   <Skill>
   QA Test
-  IT Managment
+  IT Management
   Project Management
   Team Leading and Team player
   Programming
