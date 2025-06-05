@@ -2,8 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Aboutme>
-  <Username>Jason Tse</Username>
-  <Discord>tajassson</Discord>
+  <Name>Jason Tse</Name>
   <Country>Hong Kong</Country>
   <BornIn>2003</BornIn>
   <Linkedin>https://linkedin.com/in/jasontse1007</Linkedin>
