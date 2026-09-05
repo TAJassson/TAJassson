@@ -40,7 +40,3 @@
   </Skill>
 </Description>
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajassson&show_icons=true&locale=en&layout=compact" alt="tajassson" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajassson&show_icons=true&locale=en" alt="tajassson" /></p>
